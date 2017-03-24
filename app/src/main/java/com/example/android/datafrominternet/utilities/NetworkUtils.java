@@ -57,7 +57,7 @@ public class NetworkUtils {
         } catch (MalformedURLException e){
             e.printStackTrace();
         }
-        return null;
+        return url;
     }
 
     /**
